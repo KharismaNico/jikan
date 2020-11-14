@@ -10,8 +10,8 @@ class HeadApp extends HTMLElement {
 
     render() {
         this.innerHTML=`
-       <h2>MyAnimeList using Jikan.moe API</h2>
-       <p>submission dicoding</p>`;
+       <h2>It's kinda like MyAnimeList using Jikan.moe API I got for free</h2>
+       <p>dgn kata lain ini proyek ngasal ngga guna, jgn hujat plis</p>`;
     }
 }
 
